@@ -15,3 +15,7 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+- [ ] Learn Github every day.
+- [ ] Check progress in Github Markdown lesson.
+- [ ] Refresh the page once done.
